@@ -4,3 +4,15 @@
 [submodule "scripts/apothecary"]
 	path = scripts/apothecary
 	url = https://github.com/openframeworks/apothecary
+[submodule "libs/libtess2"]
+	path = libs/libtess2
+	url = https://github.com/memononen/libtess2.git
+[submodule "libs/kissfft"]
+	path = libs/kissfft
+	url = https://github.com/mborgerding/kissfft.git
+[submodule "addons/ofxCv"]
+	path = addons/ofxCv
+	url = https://github.com/teclamat/ofxCv.git
+[submodule "addons/ofxAruco"]
+	path = addons/ofxAruco
+	url = https://github.com/teclamat/ofxAruco.git

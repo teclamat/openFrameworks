@@ -20,18 +20,14 @@ addons/*
 # see apps/.gitignore
 apps/*
 
-# rule to ignore compiled / downloaded libs
-/libs/*
-!/libs/openFrameworks
-!/libs/openFrameworksCompiled
-
 # also, see examples/.gitignore
 
 #########################
 # general
 #########################
 
-[Bb]uild/
+.vscode/
+[Bb]uild*/
 [Oo]bj/
 *.o
 examples/**/[Dd]ebug*/
